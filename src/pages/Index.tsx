@@ -76,7 +76,7 @@ const Index = () => {
         
         <div className="container mx-auto px-4 z-10 text-center animate-fade-in">
           <div className="inline-block mb-6">
-            <span className="text-secondary font-bold text-lg tracking-widest">15-16 ИЮНЯ 2024</span>
+            <span className="text-secondary font-bold text-lg tracking-widest">15-16 ИЮНЯ 2026</span>
           </div>
           
           <h1 className="text-7xl md:text-9xl font-extrabold mb-6 bg-gradient-to-r from-primary via-purple-400 to-secondary bg-clip-text text-transparent">
@@ -114,7 +114,7 @@ const Index = () => {
       <section id="lineup" className="py-24 bg-gradient-to-b from-background to-muted/20">
         <div className="container mx-auto px-4">
           <h2 className="text-5xl md:text-6xl font-bold text-center mb-4 animate-slide-up">
-            Lineup 2024
+            Lineup 2026
           </h2>
           <p className="text-center text-muted-foreground text-lg mb-16">
             Лучшие артисты электронной сцены
@@ -234,7 +234,7 @@ const Index = () => {
                 <div className="flex items-start gap-4">
                   <Icon name="Calendar" size={24} className="text-primary mt-1 flex-shrink-0" />
                   <div>
-                    <p className="font-semibold">15-16 июня 2024</p>
+                    <p className="font-semibold">15-16 июня 2026</p>
                     <p className="text-muted-foreground">Начало в 18:00</p>
                   </div>
                 </div>
@@ -350,7 +350,7 @@ const Index = () => {
           </div>
 
           <div className="text-center mt-12 pt-8 border-t border-border text-muted-foreground">
-            <p>&copy; 2024 LUMINA Festival. Все права защищены.</p>
+            <p>&copy; 2026 LUMINA Festival. Все права защищены.</p>
           </div>
         </div>
       </footer>
